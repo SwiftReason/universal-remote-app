@@ -16,7 +16,7 @@ anything off your phone.
 
 ## Download
 
-**[Download universal-remote.apk (v0.9.0)](https://github.com/SwiftReason/universal-remote-app/releases/download/v0.9.0/universal-remote.apk)** · [All releases](https://github.com/SwiftReason/universal-remote-app/releases)
+**[Download the latest universal-remote.apk](https://github.com/SwiftReason/universal-remote-app/releases/latest/download/universal-remote.apk)** · [All releases](https://github.com/SwiftReason/universal-remote-app/releases)
 
 1. On your phone, open the link above and tap `universal-remote.apk`.
 2. Open the downloaded file. Android asks once to allow installs from your browser or Files app.
@@ -32,9 +32,8 @@ anything off your phone.
 
 Phones without an IR blaster can still use the Bluetooth features.
 
-> **Version 0.9.0 is an early pre-release.** It passes its full automated test suite but hasn't
-> been tested on real hardware yet. If something doesn't work, Settings → Diagnostics shows exactly
-> what the phone reports and what was sent.
+> **Version 0.9.0 has been tested on a OnePlus 13R.** If something doesn't work on your phone,
+> Settings → Diagnostics shows exactly what the phone reports and what was sent.
 
 ## Features
 
@@ -213,7 +212,8 @@ your phone and in any backup file you export yourself.
 
 ## Known limitations
 
-- **Pre-release**: not yet tested on real phones and TVs.
+- Tested so far on one phone, the OnePlus 13R. Other phones with IR blasters should work, but
+  haven't been tried yet.
 - Codes come from a community database, so some models may not match. The setup test loop and
   scan mode exist for exactly that.
 - The app can't learn codes from an existing remote (phone IR blasters only transmit).
