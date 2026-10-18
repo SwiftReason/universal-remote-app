@@ -16,7 +16,7 @@ anything off your phone.
 
 ## Download
 
-**[Download the latest universal-remote.apk](https://github.com/SwiftReason/universal-remote-app/releases/latest)**
+**[Download universal-remote.apk (v0.9.0)](https://github.com/SwiftReason/universal-remote-app/releases/download/v0.9.0/universal-remote.apk)** · [All releases](https://github.com/SwiftReason/universal-remote-app/releases)
 
 1. On your phone, open the link above and tap `universal-remote.apk`.
 2. Open the downloaded file. Android asks once to allow installs from your browser or Files app.
